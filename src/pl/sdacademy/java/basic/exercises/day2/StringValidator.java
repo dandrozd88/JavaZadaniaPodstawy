@@ -5,4 +5,5 @@ public class StringValidator {
         return input != null && !input.isBlank();
 
     }
+
 }
